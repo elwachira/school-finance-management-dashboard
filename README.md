@@ -67,3 +67,7 @@ The workbook provides a structured approach to managing school finances by bring
 
 It supports better expenditure monitoring, facilitates the review of financial transactions, and makes it easier to identify spending patterns across different vote heads and reporting periods.
 
+**#Screenshot of Financial dashboard summarizing expenditure by vote head and month**
+
+<img width="944" height="446" alt="Screenshot 2026-11-17 211435" src="https://github.com/user-attachments/assets/9a9984c9-676e-4704-9350-c83acd18db82" />
+
