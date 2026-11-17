@@ -1,4 +1,4 @@
-**## School-Finance-Management-Dashboard**
+**# School-Finance-Management-Dashboard**
 
 Excel based school finance management tool for tracking bank transactions, receipts, payments, petty cash and analysing expenditure through dashboards.
 
@@ -19,7 +19,7 @@ Excel Formulas
 
 Pivot Tables
 
-Power query
+Power Query
 
 Data Consolidation
 
